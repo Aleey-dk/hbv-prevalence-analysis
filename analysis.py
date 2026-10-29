@@ -18,7 +18,7 @@ from pathlib import Path
 import numpy as np
 from scipy import stats
 
-DATA_PATH = Path(__file__).parent / "data" / "patients_summary.csv"
+DATA_PATH = Path(__file__).parent / "patients_summary.csv"
 Z_95 = 1.959963984540054  # two-sided 95% normal quantile
 
 
