@@ -1,0 +1,11 @@
+group,category,examined,positive
+sex,Male,55,2
+sex,Female,45,3
+age_group,17-25,26,1
+age_group,25-30,39,2
+age_group,30-45,35,2
+marital_status,Married,30,1
+marital_status,Single,60,4
+marital_status,Widowed,10,0
+pregnancy_status,Pregnant (females only),15,2
+pregnancy_status,Not pregnant (females only),30,1
